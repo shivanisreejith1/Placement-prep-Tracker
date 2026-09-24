@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(198, 151, 221);
+}
+h1{
+    color:aquamarine;
+    font-size:48px;
+    text-align:center;
+}
+P{
+    color:grey;
+    margin:20px;
+}
+button{
+    background-color:rgb(198, 151, 221);
+    color:rgb(0, 0, 0);
+}
